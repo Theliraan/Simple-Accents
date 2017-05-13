@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Accent",
+        "command": "simple-accents:accent"
+      },
+      {
+        "label": "Deaccent",
+        "command": "simple-accents:deaccent"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Simple Accents",
+          "submenu": [
+            {
+              "label": "Accent",
+              "command": "simple-accents:accent"
+            },
+            {
+              "label": "Deaccent",
+              "command": "simple-accents:deaccent"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

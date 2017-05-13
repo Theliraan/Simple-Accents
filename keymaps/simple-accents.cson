@@ -1,0 +1,3 @@
+'atom-text-editor':
+  'ctrl-alt-a': 'simple-accents:accent'
+  'ctrl-alt-d': 'simple-accents:deaccent'

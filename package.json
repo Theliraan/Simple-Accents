@@ -1,0 +1,19 @@
+{
+  "name": "simple-accents",
+  "main": "./lib/simple-accents",
+  "version": "0.1.0",
+  "description": "Simple accents to vowels",
+  "keywords": [
+    "accents", "poetry"
+  ],
+  "author": {
+    "name": "Alexander 'Theliraan' Lazarev",
+    "email": "theliraann@gmail.com"
+  },
+  "repository": "https://github.com/atom/simple-accents",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
