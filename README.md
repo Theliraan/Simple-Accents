@@ -1,7 +1,7 @@
-# simple-accents package
+# Simple Accents package
 
 Simple accents to vowels.
 
 Vowels supported: English (Latin), Russian (Cyrillic)
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![Accent and deaccent example](https://cloud.githubusercontent.com/assets/3195612/26021253/a76c4922-3792-11e7-9e80-7ddbbf869c0d.gif)
