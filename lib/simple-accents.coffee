@@ -39,6 +39,10 @@ module.exports =
       { normal: "u", accented: "ú" },
       { normal: "Y", accented: "Ý" },
       { normal: "y", accented: "ý" }
+
+      # Special symbols
+      { normal: "-", accented: "—" },
+      { normal: "\"", accented: "«»" }
     ]
 
   activate: ->
